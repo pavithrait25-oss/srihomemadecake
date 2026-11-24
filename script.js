@@ -8,7 +8,7 @@
 const DEFAULT_BAKER_CONFIG = {
   phone: "+91 9566750694",
   whatsappNumber: "919566750694", // Clean digits for wa.me
-  address: "Hosur,Tamilnadu,India",
+  address: "Hosur,Tamil Nadu,India",
   city: "Hosur"
 };
 
